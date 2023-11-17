@@ -1,0 +1,14 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css */
+
+.quicksand-font {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    color: #253D4E;
+  }
+  
+  
