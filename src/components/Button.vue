@@ -11,7 +11,7 @@ export default {
   props: {
     text: String,
     background: String,
-    iconComponent: Object, // Define the prop type as Object for a component
+    iconComponent: Object,
   },
 };
 </script>
